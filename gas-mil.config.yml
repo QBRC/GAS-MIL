@@ -1,0 +1,13 @@
+attn: false
+bottom_k: 20
+clf_feat_dim: 96
+groupall_bottom_k: 20
+groupall_top_k: 20
+grouped_feat_dim: 256
+groups:
+- 1024
+- 768
+in_channels: 1792
+include_groupall: true
+num_class: 2
+top_k: 20
