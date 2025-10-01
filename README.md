@@ -31,7 +31,8 @@ PLIP(https://github.com/PathologyFoundation/plip )
 LVM-Med (https://github.com/duyhominhnguyen/LVM-Med )
 </pre>
 
-Please use the code under the folder <b>'pre-processing'</b> to pre-process the pathology image.
+Please use the repository [quanpr64/feature_extraction](https://github.com/quanpr64/feature_extraction) to pre-process the pathology image.
+
 
 
 
